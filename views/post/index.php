@@ -32,3 +32,4 @@ use yii\helpers\Html;
 
 <?php ActiveForm::end(); ?>
 
+<?php debug($posts); ?>
